@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Orange",
+    "price": 25,
+    "category": "Fruits",
+    "image": "https://cdn.britannica.com/24/174524-050-A851D3F2/Oranges.jpg"
+  },
+  {
+    "name": "Onion",
+    "price": 35,
+    "category": "Vegetables",
+    "image": "https://www.bigbasket.com/media/uploads/p/xxl/10000148-2_2-fresho-onion.jpg"
+  },
+  {
+    "name": "Masala",
+    "price": 25,
+    "category": "Groceries",
+    "image": "https://www.efghfoods.com/wp-content/uploads/2022/06/general_544923805.jpg"
+  },
+  {
+    "name": "Blackberry",
+    "price": 25,
+    "category": "Fruits",
+    "image": "https://healthymaster.in/cdn/shop/articles/blackberry_benefits_for_skin.jpg?v=1685781261"
+  }
+]
