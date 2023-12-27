@@ -28,7 +28,7 @@ router.get('/get-bill', async (req,res)=>{
 })
 
 //get bill by customerName
-router.get('/get-bill-customer', async (req,res)=>{
+router.post('/get-bill-customer', async (req,res)=>{
     const customerName = req.body.customerName
     try{
         const customerBill = await billModel.find({customerName:customerName})
